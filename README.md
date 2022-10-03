@@ -28,7 +28,8 @@ I've written this code to make it easier to launch VSCode Server.
   }
   ```
 
-- Appropriate permission settings for the IAM principal you use.
+- Set appropriate permission for the IAM principal you use.
+- Set variables in ./main.tf.
 
 ## Usage
 
